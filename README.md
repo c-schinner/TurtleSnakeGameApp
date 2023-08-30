@@ -3,13 +3,12 @@ The Turtle Snake Game is a classic Snake game implemented using the Turtle graph
 
 # Features
 Control a snake's movement to collect food and grow.
-Avoid collisions with walls and your snake's tail.
-Track your score on an interactive scoreboard.
-Experience smooth, real-time gameplay using the Turtle graphics library.
 
-# Prerequisites
-Python 3.x
-turtle module (standard library)
+Avoid collisions with walls and your snake's tail.
+
+Track your score on an interactive scoreboard.
+
+Experience smooth, real-time gameplay using the Turtle graphics library.
 
 # Usage
 1. Make sure you have Python installed. You can download it from the official Python website.
@@ -49,6 +48,7 @@ This project is licensed under the MIT License.
 
 # Acknowledgments
 The app was created to showcase the implementation of a classic Snake game using the Turtle graphics library in Python.
+
 Enjoy the nostalgic experience of playing Snake with a turtle twist in the Turtle Snake Game. Challenge yourself to achieve the highest score while avoiding collisions!
 
 
